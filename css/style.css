@@ -1,0 +1,20 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+@import url("components/cards.css");
+@import url("components/herosection.css");
+@import url("components/button.css");
+@import url("components/footer.css");
+/* Utilities */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,600;0,700;0,900;1,100;1,200;1,300&family=Oswald:wght@600&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; /* la propriété par défaut est content-box */
+	list-style: none;
+}
+
+/* Custom design below! */

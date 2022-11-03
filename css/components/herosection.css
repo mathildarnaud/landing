@@ -1,0 +1,65 @@
+
+.banner {
+  align-items: center;
+  background-image: url("../images/homestack.jpg");
+  background-size: cover;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  Height: 400px;
+  justify-content: center;
+  opacity: 95%;
+}
+
+.container{
+  background-color: rgba(240, 248, 255, 0.45);
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px 20px;
+  border-radius: 15px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  padding: 40px;
+
+}
+
+.container h1 {
+  color: #001563;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  padding: 15px;
+}
+
+p {
+  color: #494949;
+  font-size: 12px;
+  line-height: 1.6;
+  font-weight: lighter;
+  font-family: 'Monserrat', sans-serif;
+  display: block;
+}
+
+h1 {
+  color: #ff9085;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+  padding: 15px;
+}
+
+h3 {
+  color: rgb(63, 63, 63);
+  font-weight: normal;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+
+h2 {
+  color: #001563;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  padding: 15px;
+}
